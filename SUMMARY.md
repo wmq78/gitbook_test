@@ -6,4 +6,5 @@
   * [第二节 用户管理](chapter1/di-er-jie-yong-hu-guan-li.md)
 * [第二章 设置](di-er-zhang-she-zhi.md)
   * [第一节 偏好设置](di-er-zhang-she-zhi/di-yi-jie-pian-hao-she-zhi.md)
+* [第三章 个人信息](di-san-zhang-ge-ren-xin-xi.md)
 
